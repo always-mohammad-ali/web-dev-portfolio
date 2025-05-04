@@ -154,3 +154,33 @@ main{
 .skill-description{
     padding: 10px 30px;
 }
+
+/* education & experience */
+.eduex>h1{
+    text-align: center;
+    margin:100px 100px;
+    
+}
+.eduex-container{
+    display: flex;
+    gap: 120px;
+}
+
+.sub-name{
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+.university{
+    font-size: 17px;
+    font-weight: 600;
+    margin-top: 0;
+}
+.edu-des{
+    font-size: 15px;
+}
+
+.edu-btn{
+    margin: 50px 450px;
+    text-align: center;
+}
