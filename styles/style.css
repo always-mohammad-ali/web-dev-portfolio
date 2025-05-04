@@ -107,7 +107,7 @@ nav ul li a{
 
 /* about me styles */
 .section-description{
-    font-size: 18px;
+    font-size: 17px;
 }
 .about{
     border-radius: 10px;
@@ -133,4 +133,24 @@ main{
     color: #474747;
     font-size: 16px;
     font-weight: bold;
+}
+
+/* all skills */
+.skills{
+    text-align: center;
+    margin-top: 130px;
+    padding: 90px 80px 90px 80px;
+}
+.all-skills{
+    display: flex;
+    margin-top: 100px;
+}
+.skill{
+    text-align: center;
+    box-shadow: 4px 5px 10px #181818;
+    margin-right: 20px;
+    padding: 10px;
+}
+.skill-description{
+    padding: 10px 30px;
 }
