@@ -184,3 +184,32 @@ main{
     margin: 50px 450px;
     text-align: center;
 }
+
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 200px;
+    gap: 220px;
+}
+.form form input{
+    display: block;
+    width: 100%;
+    border: none;
+    margin-bottom: 40px;
+    padding: 20px;
+}
+.btn{
+    margin-top: 20px;
+    width: 50%;
+    border: none;
+}
+footer h1{
+    font-size: 30px;
+}
+textarea{
+    padding: 10px;
+}
+.anchor a{
+    
+    margin-right: 17px;
+}
